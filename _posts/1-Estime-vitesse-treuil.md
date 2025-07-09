@@ -1,3 +1,18 @@
+---
+title: "Estimation vitesse treuil"
+date: 2025-07-09 22:59:55
+categories:
+  - blog
+  - announcements
+tags:
+  - jekyll
+  - github-pages
+  - minimal-mistakes
+  - first-post
+excerpt: "bla bla"
+header:
+  teaser: /assets/images/1-estime-vitesse-treuil/ # Optional - add image later
+---
 # Method and Results
 
 This document explains the methodology and summarizes the key results that are presented on the project webpage. The main results are visualized in the figures `slopes_boxplot_with_summary.png` and `plot_Leman_23-09-2024_08/39/08.png`.
