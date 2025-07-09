@@ -5,7 +5,6 @@ layout: posts
 author_profile: true
 ---
 
-
 # Blog Posts
 
 <ul>
